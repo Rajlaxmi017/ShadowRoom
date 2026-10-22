@@ -95,7 +95,7 @@ shadow-room/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/shadow-room.git
+git clone https://github.com/Rajlaxmi017/ShadowRoom.git
 ```
 
 ### Install Frontend Dependencies
